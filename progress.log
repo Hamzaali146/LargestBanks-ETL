@@ -1,0 +1,49 @@
+2024-07-05 11:32:25,083:INFO:First table extracted successfully
+2024-07-05 11:34:59,044:INFO:First table extracted successfully
+2024-07-05 11:36:00,022:INFO:First table extracted successfully
+2024-07-05 11:36:40,644:INFO:First table extracted successfully
+2024-07-05 11:38:09,307:INFO:First table extracted successfully
+2024-07-06 01:22:33,201:INFO:First table extracted successfully
+2024-07-06 01:22:56,690:INFO:First table extracted successfully
+2024-07-06 01:23:45,675:INFO:First table extracted successfully
+2024-07-06 01:25:01,863:INFO:First table extracted successfully
+2024-07-06 01:29:38,693:INFO:First table extracted successfully
+2024-07-06 01:32:33,652:INFO:First table extracted successfully
+2024-07-06 01:35:31,609:INFO:First table extracted successfully
+2024-07-06 01:40:01,136:INFO:First table extracted successfully
+2024-07-06 01:49:54,129:INFO:First table extracted successfully
+2024-07-06 01:53:23,025:INFO:First table extracted successfully
+2024-07-06 01:54:25,613:INFO:First table extracted successfully
+2024-07-06 01:55:42,228:INFO:First table extracted successfully
+2024-07-06 02:00:10,328:INFO:First table extracted successfully
+2024-07-06 02:09:36,460:INFO:First table extracted successfully
+2024-07-06 02:09:36,527:INFO:The Scraped Data has been transformed
+2024-07-06 02:15:04,914:INFO:First table extracted successfully
+2024-07-06 02:15:04,948:INFO:The Scraped Data has been transformed
+2024-07-06 02:15:06,360:INFO:package: mysql.connector.plugins
+2024-07-06 02:15:06,360:INFO:plugin_name: mysql_native_password
+2024-07-06 02:15:06,373:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-07-06 02:18:03,828:INFO:First table extracted successfully
+2024-07-06 02:18:03,867:INFO:The Scraped Data has been transformed
+2024-07-06 02:18:05,174:INFO:package: mysql.connector.plugins
+2024-07-06 02:18:05,177:INFO:plugin_name: mysql_native_password
+2024-07-06 02:18:05,178:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-07-06 02:18:09,913:INFO:Data loaded into database successfully
+2024-07-06 02:22:24,098:INFO:First table extracted successfully
+2024-07-06 02:22:24,141:INFO:The Scraped Data has been transformed
+2024-07-06 02:22:25,419:INFO:package: mysql.connector.plugins
+2024-07-06 02:22:25,419:INFO:plugin_name: mysql_native_password
+2024-07-06 02:22:25,430:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-07-06 02:22:30,460:INFO:Data loaded into database successfully
+2024-07-06 02:26:03,485:INFO:First table extracted successfully
+2024-07-06 02:26:03,531:INFO:The Scraped Data has been transformed
+2024-07-06 02:26:04,873:INFO:package: mysql.connector.plugins
+2024-07-06 02:26:04,873:INFO:plugin_name: mysql_native_password
+2024-07-06 02:26:04,882:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-07-06 02:26:09,442:INFO:Data loaded into database successfully
+2024-07-06 02:28:12,390:INFO:First table extracted successfully
+2024-07-06 02:28:12,425:INFO:The Scraped Data has been transformed
+2024-07-06 02:28:14,427:INFO:package: mysql.connector.plugins
+2024-07-06 02:28:14,427:INFO:plugin_name: mysql_native_password
+2024-07-06 02:28:14,431:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-07-06 02:28:19,193:INFO:Data loaded into database successfully
